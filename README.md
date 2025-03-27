@@ -8,7 +8,7 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
-My name is Julia and I'm a data analytics. I'm from Russia, living in Saint-Petersburg.
+My name is Julia and I'm a data analyst. I'm from Russia, living in Saint-Petersburg.
 
 ## 🔧 Technologies & Tools
 
